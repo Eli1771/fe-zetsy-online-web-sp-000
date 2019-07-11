@@ -41,5 +41,6 @@ p#details {
 }
 
 #press-images img:hover {
-  transition: border .5s ;
+  transition: border .5s ease;
+  tra
 }
