@@ -39,3 +39,7 @@ img {
 p#details {
   text-align: right;
 }
+
+#press-images img:hover {
+  transition: border .5s ;
+}
