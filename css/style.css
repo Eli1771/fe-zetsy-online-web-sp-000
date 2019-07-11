@@ -40,7 +40,10 @@ p#details {
   text-align: right;
 }
 
-#press-images img:hover {
+#press-images img {
   transition: border .5s ease;
+}
+
+#press-images img:hover {
   border: 5px solid;
 }
